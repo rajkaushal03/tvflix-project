@@ -37,7 +37,7 @@ export function sidebar ()
     </div>
     <div class="sidebar-footer">
         <p class="copyright">Copyright 2023 <a
-                href="rajkaushal03.github.io/Vampire-Verse/">codewuthraj</a></p>
+                href="rajkaushal03.github.io/Vampire-Verse/">codewithraj</a></p>
         <img src="./assets/images/tmdb-logo.svg" width="130"
             height="17" alt="the movie database logo">
     </div>
